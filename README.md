@@ -119,9 +119,9 @@ SHAP
 
 📬 Contact
 
-Your Name
+Uday Kumar
 B.Tech Data Science
-📧 your-email@example.com
+📧 kumaruday9973@gmail.com
 
 ⭐ Support
 
